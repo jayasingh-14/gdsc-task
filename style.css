@@ -236,7 +236,7 @@ h1{
   }
   .pass{
     margin: -5px 0 20px 5px;
-    color: #a6a6a6;
+    color: hsl(215, 51%, 70%);
     cursor: pointer;
     /* margin-top: 90px; */
   }
